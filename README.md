@@ -1,2 +1,2 @@
-# Bomberman-Python
-A bomberman/dyna blaster remake made in Python
+# Bomberman/Dyna Blaster
+A Bomberman/Dyna Blaster remake made in Python
